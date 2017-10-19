@@ -1,0 +1,23 @@
+{
+  "name": "Portfolio",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitit": "git add . && git commit -m 'some message' && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Bootcamp2-KarsonMadden/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bootcamp2-KarsonMadden/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Bootcamp2-KarsonMadden/Portfolio",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

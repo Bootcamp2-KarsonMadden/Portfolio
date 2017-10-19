@@ -1,0 +1,22 @@
+{
+  "name": "Portfolio",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Bootcamp2-KarsonMadden/Portfolio",
+  "authors": [
+    "babbagescabbages <karsonmadden@gmail.com>"
+  ],
+  "description": "one of my students sites. no big deal",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3",
+    "bootstrap": "~4.0",
+    "modernizr": "~3.5.0"
+  }
+}
